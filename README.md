@@ -8,7 +8,9 @@ A grassroots solution implemented in one village could be scaled quickly, using 
 
 ## User Stories
 
-Example Scenario: Imagine a local resident, Wayan, who is frustrated with the daily traffic jams at the Penestanan hairpin bend. Wayan joins the /r/PenestananTraffic subreddit and starts a discussion about the issue. Other residents chime in with their observations and suggestions. Meanwhile, a GitHub repository is set up to document these discussions and track the progress of proposed solutions. Over time, the community collaborates to implement traffic management strategies, such as adjusting traffic light timings or creating alternative routes, and shares their success stories with neighboring villages.
+Example Scenario: Imagine a local resident, Wayan, who is frustrated with the daily traffic jams at the Penestanan hairpin bend. Wayan joins the /r/PenestananTraffic subreddit and starts a discussion about the issue. Other residents chime in with their observations and suggestions. 
+
+Meanwhile, a GitHub repository is set up to document these discussions and track the progress of proposed solutions. Over time, the community collaborates to implement traffic management strategies, such as adjusting traffic light timings or creating alternative routes, and shares their success stories with neighboring villages.
 
 Every day in Bali, from 11am to 4pm, vehicles are nearly at a standstill, causing significant delays and frustration for commuters. By leveraging the Reddit and GitHub APIs, we can create a hyper-localized platform where locals can discuss and propose solutions to this issue.
 
