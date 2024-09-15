@@ -1,5 +1,30 @@
 # GithubAPI
 
+Can the 
+
+
+# Project Name
+
+## Overview
+This project aims to create simple, mission-focused websites for various goals such as:
+
+- Single Mission Crowdfunding
+- Anti-scammer Sites
+- Organic Traffic Management
+
+## Features
+- Monitor multiple provinces
+- Local discussion forums
+- Real-time updates
+- Teaching locals to use the Reddit and Github APIs.
+
+## Tech Stack
+- **Frontend**: HTML, CSS, JavaScript
+- **APIs**: GitHub API, Reddit API
+
+## License
+This project is licensed under the MIT License.
+
 Testing some ideas...
 
 https://codepen.io/xus/pen/KKWqwm
