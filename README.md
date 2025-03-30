@@ -9,6 +9,8 @@ How could the Github API help set up an open source traffic reduction system in 
 
 Bali's traffic can be managed organically and gently, using a network of linked open source version control systems. Github allows for granular, flexible project management, and multi-lingual collaboration, without being top-down or rigid.
 
+## Infinte Commit Scroll as a Messaging Sytem?
+
 A grassroots solution implemented in one village could be scaled quickly, using the repo forking feature. What works in Ubud, could work in Singaraja, with some minor adjustments.
 
 ## User Stories
@@ -22,6 +24,43 @@ Every day in Bali, from 11am to 4pm, vehicles are nearly at a standstill, causin
 ## Hyper-Localization Strategy:
 
 Subreddits for Each Village: Create individual subreddits for each Balinese village, allowing residents to discuss hyper-local traffic issues and solutions. GitHub Repositories: Set up GitHub repositories for each village to document proposed solutions, track their implementation status, and collaborate on code or data-driven approaches.
+
+# 
+
+### **GitHub as a Guerrilla Traffic Management System for Bali**  
+
+**The Problem:** Bali’s traffic is chaotic, and real-time updates are scattered across WhatsApp groups, Facebook posts, and Telegram channels—all of which require phone numbers, signups, and fragmented moderation.  
+
+**The Solution:** **GitHub commits as a decentralized, open traffic alert system.**  
+
+- **No signup needed** – Anyone can view commits without an account.  
+- **API-friendly** – Bots, apps, or SMS services can pull updates easily.  
+- **Immutable & timestamped** – No sneaky edits, no disappearing messages.  
+- **Geek-proof moderation** – Fork, PR, or lock threads if abuse happens.  
+
+Example commit:  
+```
+commit a1b2c3d  
+Author: @denpasar_traffic_watch  
+Date:   2025-03-31 08:15:00 +08:00  
+
+    BOTTLENECK: Sanur inbound jammed at Helena Roundabout.  
+    Alternate routes via Jl. Danau Poso (low traffic as of 08:10).  
+```  
+
+### **Why GitHub > Signal/FB/Telegram?**  
+- **No phone number tyranny** – Tourists, SIM-less locals, or privacy-minded folks can still read updates.  
+- **History & search** – No endless scroll to find yesterday’s congestion patterns.  
+- **No ads, no algorithms** – Just raw, timestamped facts.  
+
+### **How to Ignore the "GitHub Is Not For This" Techbros**  
+1. **"This isn’t what GitHub is for!"** → *"Neither was Twitter for revolutions, yet here we are."*  
+2. **"Just use a proper app!"** → *"Show me the app that’s free, open, and works without a login."*  
+3. **"This is abuse of the platform!"** → *"No, abuse is letting Bali’s roads choke while you gatekeep commit messages."*  
+
+**Final Thought:** If people can use GitHub to host *PornHub clones* ([real](https://github.com/topics/pornhub)) or *an entire legal system* ([see: Legislate.rs](https://github.com/legislate-rs)), then traffic alerts are **well** within the realm of creative utility.  
+
+**Ship it.** 🚦🏍️
 
 
 ## Overview
