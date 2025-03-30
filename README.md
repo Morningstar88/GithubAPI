@@ -2,6 +2,11 @@
 
 How could the Github API help set up an open source traffic reduction system in Bali? 
 
+![image](https://github.com/user-attachments/assets/d658793f-c57d-4b75-901e-1ede0dbffb3a)
+
+![image](https://github.com/user-attachments/assets/19695d30-6b21-41d1-80bf-4adc44ba81bf)
+
+
 Bali's traffic can be managed organically and gently, using a network of linked open source version control systems. Github allows for granular, flexible project management, and multi-lingual collaboration, without being top-down or rigid.
 
 A grassroots solution implemented in one village could be scaled quickly, using the repo forking feature. What works in Ubud, could work in Singaraja, with some minor adjustments.
@@ -75,6 +80,3 @@ Once a small network is set up, it could be displayed using a front-end site, th
 
 Any ideas or questions please go ahead.
 
-![image](https://github.com/user-attachments/assets/d658793f-c57d-4b75-901e-1ede0dbffb3a)
-
-![image](https://github.com/user-attachments/assets/19695d30-6b21-41d1-80bf-4adc44ba81bf)
