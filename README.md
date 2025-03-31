@@ -11,6 +11,8 @@ Bali's traffic can be managed organically and gently, using a network of linked 
 
 ## Infinte Commit Scroll as a Messaging Sytem?
 
+[Original Messaging Rewrite By Deepseek, 30th March 2025](https://jsfiddle.net/eaywjfq5/4/)
+
 A grassroots solution implemented in one village could be scaled quickly, using the repo forking feature. What works in Ubud, could work in Singaraja, with some minor adjustments.
 
 ## User Stories
