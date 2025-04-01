@@ -254,7 +254,7 @@
         // Render commits
         const fragment = document.createDocumentFragment();
         
-        commits.slice(0, 9)forEach(commit => {
+        commits.forEach(commit => {
           const item = document.createElement('div');
           item.className = 'commit-item';
           item.innerHTML = `
@@ -342,12 +342,12 @@
     loadCommits();
     loadProjects();
     
-    // Infinite scroll. Currently disabled. Can add it back in. 
+    // Infinite scroll
     const observer = new IntersectionObserver((entries) => {
       if (entries[0].isIntersecting) loadCommits();
     }, { threshold: 0.1 });
     
- //   observer.observe(loader);
+    observer.observe(loader);
     
     // Region click handler
     document.querySelectorAll('.regions-list li').forEach(item => {
@@ -359,3 +359,4 @@
   </script>
 </body>
 </html>
+
