@@ -74,11 +74,15 @@
     /* Two-column layout */
     .dashboard {
       display: grid;
-      grid-template-columns: 1fr 2fr;
+      grid-template-columns: 2fr 3fr;
       gap: 2rem;
       max-width: 1200px;
       margin: 0 auto;
     }
+
+/* 3 deepseek new snippets */
+
+/* END */
     
     /* Bali Regions List */
     .regions {
@@ -86,6 +90,8 @@
       border-radius: 8px;
       padding: 1.5rem;
       box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+     min-width: 250px; /* Prevent regions from getting too narrow */
+    padding: 1.5rem 1rem; /* Reduced side padding */
     }
     .regions h2 {
       color: var(--primary);
@@ -104,13 +110,14 @@
     .regions-list li:hover {
       color: var(--primary);
     }
-    
+  
     /* Commit Feed */
     .commit-feed {
       background: white;
       border-radius: 8px;
       overflow: hidden;
       box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      min-width: 0; /* Fixes flexbox overflow issues */ 
     }
     .commit-item {
       padding: 1.25rem;
